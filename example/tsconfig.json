@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "module": "es2015",
+    "target": "es6",
+    "lib": [
+      "dom",
+      "es2017"
+    ],
+    "sourceMap": true,
+    "removeComments": false
+  },
+  "include": [
+    "./src/**/*.ts"
+  ],
+  "typeRoots": [
+    "node_modules/@types",
+    "src/typings"
+  ]
+}
