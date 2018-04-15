@@ -1,6 +1,6 @@
 # pixi-tube-filter
 
-[![Build Status][travisci-image]][travisci-url]
+<!-- [![Build Status][travisci-image]][travisci-url] -->
 [![npm][npm-image]][npm-url]
 [![Dependency Status][dependencies-image]][dependencies-url]
 [![MIT License][license-image]][license-url]
