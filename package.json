@@ -1,6 +1,6 @@
 {
   "name": "pixi-tube-filter",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Tube (CRT) filter for PixiJS",
   "keywords": [
     "shader",
